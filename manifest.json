@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "version": "5.2.0",
+  "name": "Links tracker",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "png-transparent-money-bag-money-food-gold-soybean-oil-thumbnail.png"
+  },
+  "permissions": ["tabs"]
+}
